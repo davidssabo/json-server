@@ -1,0 +1,38 @@
+{
+    "transactions": {
+        "8eLKTDbQYHwZoZK": {
+            "timestamp": "2021-03-26T11:46:27.095Z",
+            "provider": {
+                "name": "Tesco Magyarország"
+            },
+            "store": {
+                "name": "Tesco - Vác",
+                "address": {
+                    "city": "Vác",
+                    "zip": "HU-2600",
+                    "street": "Deres út",
+                    "number": "2"
+                }
+            },
+            "items": [
+                {
+                    "barcode": "0000000000001",
+                    "bestBefore": "2021-06-26T11:46:27.095Z",
+                    "quantity": 2
+                },
+                {
+                    "barcode": "0000000000002",
+                    "bestBefore": "2021-06-26T11:46:27.095Z"
+                },
+                {
+                    "barcode": "0000000000003",
+                    "bestBefore": "2021-06-26T11:46:27.095Z"
+                },
+                {
+                    "barcode": "0000000000004",
+                    "bestBefore": "2021-06-26T11:46:27.095Z"
+                }
+            ]
+        }
+    }
+}
