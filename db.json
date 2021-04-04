@@ -17,20 +17,16 @@
             },
             "items": [
                 {
-                    "barcode": "0000000000001",
+                    "name": "Kifli",
                     "bestBefore": "2021-06-26T11:46:27.095Z",
-                    "quantity": 2
+                    "quantity": 10
                 },
                 {
-                    "barcode": "0000000000002",
+                    "name": "Tej",
                     "bestBefore": "2021-06-26T11:46:27.095Z"
                 },
                 {
-                    "barcode": "0000000000003",
-                    "bestBefore": "2021-06-26T11:46:27.095Z"
-                },
-                {
-                    "barcode": "0000000000004",
+                    "name": "Tojás 30 db",
                     "bestBefore": "2021-06-26T11:46:27.095Z"
                 }
             ]
